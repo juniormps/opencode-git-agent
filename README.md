@@ -38,12 +38,12 @@ Neste vídeo você verá:
 - ✅ Aprovação antes de cada **commit**
 - 🚀 Aprovação antes de cada **push**
 - 💻 Compatível com qualquer IDE ou editor
-  - VS Code
-  - Cursor
-  - Windsurf
-  - Zed
-  - Neovim
-  - Terminal
+    - VS Code
+    - Cursor
+    - Windsurf
+    - Zed
+    - Neovim
+    - Terminal
 - 🌎 Funciona em qualquer projeto Git
 
 ---
@@ -63,7 +63,7 @@ O objetivo é oferecer uma experiência profissional com excelente custo-benefí
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/opencode-git-agent.git
+git clone https://github.com/juniormps/opencode-git-agent.git
 
 cd opencode-git-agent
 ```
