@@ -38,7 +38,7 @@ Isso evita trabalho duplicado.
 Clone o projeto:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/opencode-git-agent.git
+git clone https://github.com/juniormps/opencode-git-agent.git
 
 cd opencode-git-agent
 ```
